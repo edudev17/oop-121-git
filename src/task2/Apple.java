@@ -9,7 +9,7 @@ class Apple {
 
 	public Apple(String sort, String color, double diameter) {
 		this.sort = sort;
-		this.color = color;
+		this.color = "yellow";
 		this.diameter = diameter;
 	}
 
